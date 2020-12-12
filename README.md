@@ -1,4 +1,4 @@
-# Review classification
+# Review Analysis
 This is to create models for yelp and amazon echo review classification with NLP techniques.  
 
 Multi-nominal naive bayes and logistic regression models are used. 
