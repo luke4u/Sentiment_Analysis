@@ -7,5 +7,5 @@ Data visualization, feature extraction via CountVectorizer are used, and TfidfTr
 
 Tweet sentiment model(s) are created using Deep CNN in combination with Bert tokenizer and Bert embedder, respectively for sentiment analysis. Embedder based model shows good generalization than tokenzier model.
 
-******Production and deployment level codes are to be opened soon. Stay tuned. 💕💕******
+******Production and deployment level codes are to be opened soon. Stay tuned.******
 
